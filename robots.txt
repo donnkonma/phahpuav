@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iuxueghoo.python-soco.com/sitemap.xml
